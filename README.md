@@ -1,5 +1,9 @@
 # Detecção de Rachaduras usando YOLO
 
+
+https://github.com/brunomleao/EntregaYolo/assets/99328889/8c8d9c60-59a5-4462-aa0f-1782a9e9db24
+
+
 Este projeto demonstra a implementação de um modelo YOLO (You Only Look Once) para localizar rachaduras em imagens de vídeo em tempo real usando a biblioteca OpenCV e o pacote ultralytics.
 
 Pré-requisitos
